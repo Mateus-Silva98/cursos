@@ -1,1 +1,1 @@
-# Cursos - É um repositóp para organiza dos arquivos usados
+# Cursos - É um repositório para organizar arquivos usados nos cursos.
